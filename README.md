@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Israel-dev21
 - 👀 I’m interested in web development, python, data visualization and data science 
-- 🌱 I’m currently learning Html, CSS, JavaScript, python, tableau, SQL, React, etc
+- 🌱 I’m currently learning Html, CSS, JavaScript, python, tableau, MySQL, React, Redux etc
 - 💞️ I’m looking to collaborate on data science and data visualization 
 - 📫 How to reach me 
 
